@@ -23,4 +23,4 @@ Points of interest are tracked and displayed along the horizon when the camera i
 #### TODO:
 Currently, points of interest are hardcoded...
 1. Implement Google Places API to retrieve points of interest within a given radius.
-2. Store results in a local database to elimante duplicate API calls over multiple sessions
+2. Store results in a local database to eliminate duplicate API calls over multiple sessions.
