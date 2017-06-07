@@ -1,5 +1,5 @@
 # RealityOverlay
-A simple skeleton for an augmented reality application.
+Android - A simple skeleton for an augmented reality application.
 
 #### Overlay Display
 CameraDisplayView opens the back facing camera's preview
